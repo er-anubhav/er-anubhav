@@ -1,5 +1,5 @@
-<h1 align="left">Hi 👋, I'm Anubhav</h1>
-<h3 align="left">A passionate programmer from prestigious Noida, India.</h3>
+<h1 align="left">Hi, I'm Anubhav</h1>
+<h3 align="left">A passionate programmer from New Delhi, India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=er-anubhav&label=Profile%20views&color=0e75b6&style=flat" alt="er-anubhav" /> </p>
 
