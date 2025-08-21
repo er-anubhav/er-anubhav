@@ -1,6 +1,6 @@
 [![Anubhav Tripathi Header](https://github.com/er-anubhav/er-anubhav/blob/main/header.gif)](https://www.linkedin.com/in/er-anubhav/)
 
-<h1 align="center">Hi 👋, I'm Anubhav Tripathi</h1>
+<h1 align="center">I'm Anubhav Tripathi</h1>
 <h3 align="center">I am a Freelance Full Stack Developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=er-anubhav&label=Profile%20views&color=0e75b6&style=flat" alt="er-anubhav" /> </p>
