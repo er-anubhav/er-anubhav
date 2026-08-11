@@ -1,38 +1,22 @@
-<table border="0" width="100%">
-  <tr>
-    <td width="280" align="center" valign="top">
-      <img src="https://github.com/user-attachments/assets/ab6f9e08-f108-4019-9887-7508864cef40" width="260" />
-    </td>
-    <td valign="top">
-<pre>
-                                    ,,        ,,
-      db                           *MM      `7MM
-     ;MM:                           MM        MM
-    ,V^MM.    `7MMpMMMb.`7MM  `7MM  MM,dMMb.  MMpMMMb.   ,6"Yb.`7M'   `MF'
-   ,M  `MM      MM    MM  MM    MM  MM    `Mb MM    MM  8)   MM  VA   ,V
-   AbmmmqMA     MM    MM  MM    MM  MM     M8 MM    MM   ,pm9MM   VA ,V
-  A'     VML    MM    MM  MM    MM  MM.   ,M9 MM    MM  8M   MM    VVV
-.AMA.   .AMMA..JMML  JMML.`Mbod"YML.P^YbmdP'.JMML  JMML.`Moo9^Yo.   W
-</pre>
-      <h3>AI Systems & Distributed Backend Engineer</h3>
-      <p>Founding Engineer @ Orbitron Labs • B.Tech CS (AI/ML) Final Year</p>
-      <img src="https://komarev.com/ghpvc/?username=er-anubhav&color=00f0ff&style=for-the-badge&label=Profile+Views" alt="Profile Views Counter" />
-    </td>
-  </tr>
-</table>
+# Anubhav Tripathi
 
-<br/>
+**AI Systems & Distributed Backend Engineer**  
+Founding Engineer @ Orbitron Labs • B.Tech CS (AI/ML) Final Year at AKTU / I.T.S Engineering College
+
+![Profile Views](https://komarev.com/ghpvc/?username=er-anubhav&color=00f0ff&style=flat-square&label=Profile+Views)
+
+---
 
 ### Profile Overview
 
-Computer Science Engineering student (AI & ML, Final Year at AKTU / I.T.S Engineering College) architecting stateful agentic workflows, high-concurrency backend microservices, and low-power RTOS firmware across 40+ repositories and private enterprise deployments.
+Computer Science Engineering student (AI & ML, Final Year) architecting stateful agentic workflows, high-concurrency backend microservices, and low-power RTOS firmware across 40+ repositories and private enterprise deployments.
 
 * **Founding Engineer** at **Orbitron Labs** — Architected multimodal AI citizen grievance platform processing 500+ live submissions (60–70% triage reduction).
 * **Software Engineering Intern** at **E4A Solution** — Zephyr RTOS C firmware & BLE telemetry engines for medical devices.
 * **Software Engineer Intern** at **ITSEC NFED** — Enterprise backend systems & reliable REST microservices.
 * **President** of **NexTech Technical Society** & **Google Student Ambassador**.
 
-<br/>
+---
 
 ### Technical Capabilities
 
@@ -67,7 +51,7 @@ Computer Science Engineering student (AI & ML, Final Year at AKTU / I.T.S Engine
 ![Linux](https://img.shields.io/badge/Linux_CLI-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624)
 ![Supabase](https://img.shields.io/badge/Supabase-0D1117?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
 
-<br/>
+---
 
 ### Featured Systems & Architecture
 
@@ -79,21 +63,18 @@ Computer Science Engineering student (AI & ML, Final Year at AKTU / I.T.S Engine
       <p>Autonomous software development platform using LangGraph state machine, GraphRAG over Neo4j, and Docker execution sandboxes.</p>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/LangGraph-00F0FF?style=flat-square&logoColor=black" />
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
     </td>
     <td width="33%" valign="top">
       <h4><a href="https://github.com/er-anubhav/ride-matching">ride-matching</a></h4>
       <p>High-concurrency ride dispatch microservices engine with Redis atomic locks and event-driven state transitions.</p>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
       <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
     </td>
     <td width="33%" valign="top">
       <h4><a href="https://github.com/er-anubhav/work2gether">work2gether</a></h4>
       <p>Distributed real-time collaborative editing platform powered by WebSockets and CRDT synchronization.</p>
       <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
       <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white" />
-      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
     </td>
   </tr>
 </table>
@@ -117,12 +98,12 @@ Computer Science Engineering student (AI & ML, Final Year at AKTU / I.T.S Engine
       <h4>ITSEC NFED Digital Platforms</h4>
       <p>Enterprise REST microservices supporting 100+ institutional deployment users across MSME initiatives.</p>
       <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-      <img src="https://img.shields.io/badge/REST_APIs-009688?style=flat-square&logoColor=white" />
+      <img src="https://img.shields.io/badge/REST_APIs-009688?style=flat-square&logo=white" />
     </td>
   </tr>
 </table>
 
-<br/>
+---
 
 ### GitHub Analytics & Contribution Footprint
 
@@ -142,23 +123,11 @@ Computer Science Engineering student (AI & ML, Final Year at AKTU / I.T.S Engine
 
 </div>
 
-<br/>
+---
 
 ### Connect & Links
 
-<div align="center">
-
-  <a href="https://anubhavtripathi.in">
-    <img src="https://img.shields.io/badge/Portfolio-anubhavtripathi.in-00F0FF?style=for-the-badge&logo=googlechrome&logoColor=0D1117" alt="Website" />
-  </a>
-  <a href="https://www.linkedin.com/in/er-anubhav/">
-    <img src="https://img.shields.io/badge/LinkedIn-er--anubhav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/er-anubhav">
-    <img src="https://img.shields.io/badge/GitHub-er--anubhav-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="mailto:er.tripathianubhav@gmail.com">
-    <img src="https://img.shields.io/badge/Email-er.tripathianubhav%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-
-</div>
+[![Portfolio](https://img.shields.io/badge/Portfolio-anubhavtripathi.in-00F0FF?style=for-the-badge&logo=googlechrome&logoColor=0D1117)](https://anubhavtripathi.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-er--anubhav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/er-anubhav/)
+[![GitHub](https://img.shields.io/badge/GitHub-er--anubhav-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/er-anubhav)
+[![Email](https://img.shields.io/badge/Email-er.tripathianubhav%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:er.tripathianubhav@gmail.com)
