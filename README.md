@@ -1,14 +1,25 @@
-<div align="center">
-
-  <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=800&color=00F0FF&background=0D111700&center=true&vCenter=true&width=800&height=70&lines=Anubhav+Tripathi;AI+Systems+%26+Distributed+Backend+Engineer;Founding+Engineer+%40+Orbitron+Labs;B.Tech+CS+(AI%2FML)+Final+Year" alt="Anubhav Tripathi Header" />
-  </a>
-
-  <br/><br/>
-
-  <img src="https://komarev.com/ghpvc/?username=er-anubhav&color=00f0ff&style=for-the-badge&label=Profile+Views" alt="Profile Views Counter" />
-
-</div>
+<table border="0" width="100%">
+  <tr>
+    <td width="280" align="center" valign="top">
+      <img src="https://github.com/user-attachments/assets/ab6f9e08-f108-4019-9887-7508864cef40" width="260" />
+    </td>
+    <td valign="top">
+<pre>
+                                    ,,        ,,
+      db                           *MM      `7MM
+     ;MM:                           MM        MM
+    ,V^MM.    `7MMpMMMb.`7MM  `7MM  MM,dMMb.  MMpMMMb.   ,6"Yb.`7M'   `MF'
+   ,M  `MM      MM    MM  MM    MM  MM    `Mb MM    MM  8)   MM  VA   ,V
+   AbmmmqMA     MM    MM  MM    MM  MM     M8 MM    MM   ,pm9MM   VA ,V
+  A'     VML    MM    MM  MM    MM  MM.   ,M9 MM    MM  8M   MM    VVV
+.AMA.   .AMMA..JMML  JMML.`Mbod"YML.P^YbmdP'.JMML  JMML.`Moo9^Yo.   W
+</pre>
+      <h3>AI Systems & Distributed Backend Engineer</h3>
+      <p>Founding Engineer @ Orbitron Labs • B.Tech CS (AI/ML) Final Year</p>
+      <img src="https://komarev.com/ghpvc/?username=er-anubhav&color=00f0ff&style=for-the-badge&label=Profile+Views" alt="Profile Views Counter" />
+    </td>
+  </tr>
+</table>
 
 <br/>
 
