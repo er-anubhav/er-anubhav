@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,70:0D1117,100:00F0FF&height=200&section=header&text=ANUBHAV%20TRIPATHI&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=AI%20SYSTEMS%20%26%20DISTRIBUTED%20BACKEND%20ENGINEER&descSize=16&descAlignY=62&descColor=00F0FF" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&section=header&text=ANUBHAV%20TRIPATHI&fontSize=42&fontColor=ffffff&desc=AI%20SYSTEMS%20%26%20DISTRIBUTED%20BACKEND%20ENGINEER&descSize=16&descColor=00F0FF" width="100%" alt="Header Banner" />
 
   <br/>
 
@@ -70,22 +70,31 @@ SPECS      : Autonomous Agentic Workflows | High-Concurrency Backend Systems | R
 
 ### // MISSION-CRITICAL SYSTEMS (FEATURED DEPLOYMENTS)
 
-<div align="center">
-
-  <a href="https://github.com/er-anubhav/agentic-software-engineering">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=er-anubhav&repo=agentic-software-engineering&theme=tokyonight&hide_border=true&show_owner=true" width="48%" alt="Agentic Software Engineering" />
-  </a>
-  <a href="https://github.com/er-anubhav/ride-matching">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=er-anubhav&repo=ride-matching&theme=tokyonight&hide_border=true&show_owner=true" width="48%" alt="Ride Matching Engine" />
-  </a>
-
-  <br/>
-
-  <a href="https://github.com/er-anubhav/work2gether">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=er-anubhav&repo=work2gether&theme=tokyonight&hide_border=true&show_owner=true" width="48%" alt="work2gether Collaborative Engine" />
-  </a>
-
-</div>
+<table width="100%">
+  <tr>
+    <td width="33%" valign="top">
+      <h4><a href="https://github.com/er-anubhav/agentic-software-engineering">agentic-software-engineering</a></h4>
+      <p>Autonomous software development platform using LangGraph state machine, GraphRAG over Neo4j, and Docker execution sandboxes.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/LangGraph-00F0FF?style=flat-square&logoColor=black" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+    </td>
+    <td width="33%" valign="top">
+      <h4><a href="https://github.com/er-anubhav/ride-matching">ride-matching</a></h4>
+      <p>High-concurrency ride dispatch microservices engine with Redis atomic locks and event-driven state transitions.</p>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+    </td>
+    <td width="33%" valign="top">
+      <h4><a href="https://github.com/er-anubhav/work2gether">work2gether</a></h4>
+      <p>Distributed real-time collaborative editing platform powered by WebSockets and CRDT synchronization.</p>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white" />
+      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
 <br/>
 
@@ -93,12 +102,17 @@ SPECS      : Autonomous Agentic Workflows | High-Concurrency Backend Systems | R
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=er-anubhav&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" height="175" alt="System Telemetry" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=er-anubhav&theme=tokyonight&hide_border=true&layout=compact" height="175" alt="Language Breakdown" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=er-anubhav&theme=tokyonight" width="49%" alt="System Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=er-anubhav&theme=tokyonight" width="49%" alt="Repos Per Language" />
 
   <br/><br/>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=er-anubhav&theme=tokyonight&hide_border=true&area=true" width="100%" alt="Commit Activity Graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=er-anubhav&theme=tokyonight" width="49%" alt="Most Commit Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=er-anubhav&theme=tokyonight" width="49%" alt="User Stats" />
+
+  <br/><br/>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=er-anubhav&theme=tokyonight&hide_border=true" width="100%" alt="Commit Activity Graph" />
 
 </div>
 
