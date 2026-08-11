@@ -1,11 +1,7 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&section=header&text=Anubhav%20Tripathi&fontSize=42&fontColor=ffffff&desc=AI%20Systems%20%26%20Distributed%20Backend%20Engineer&descSize=16&descColor=00F0FF&v=2" alt="Header Banner" width="100%" />
-</p>
-
 <div align="center">
 
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=800&color=00F0FF&background=0D111700&center=true&vCenter=true&width=750&lines=AI+Systems+%26+Distributed+Backend+Engineer;Founding+Engineer+%40+Orbitron+Labs;B.Tech+CS+(AI%2FML)+Final+Year;LangGraph+%E2%80%A2+Zephyr+RTOS+%E2%80%A2+Redis+Locks" alt="Typing Header" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=800&color=00F0FF&background=0D111700&center=true&vCenter=true&width=800&height=70&lines=Anubhav+Tripathi;AI+Systems+%26+Distributed+Backend+Engineer;Founding+Engineer+%40+Orbitron+Labs;B.Tech+CS+(AI%2FML)+Final+Year" alt="Anubhav Tripathi Header" />
   </a>
 
   <br/><br/>
