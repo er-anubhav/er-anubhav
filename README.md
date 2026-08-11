@@ -1,4 +1,6 @@
-![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=0D1117&section=header&text=Anubhav%20Tripathi&fontSize=42&fontColor=ffffff&desc=AI%20Systems%20%26%20Distributed%20Backend%20Engineer&descSize=16&descColor=00F0FF)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&section=header&text=Anubhav%20Tripathi&fontSize=42&fontColor=ffffff&desc=AI%20Systems%20%26%20Distributed%20Backend%20Engineer&descSize=16&descColor=00F0FF&v=2" alt="Header Banner" width="100%" />
+</p>
 
 <div align="center">
 
