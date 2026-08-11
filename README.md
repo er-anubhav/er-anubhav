@@ -1,30 +1,24 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&section=header&text=ANUBHAV%20TRIPATHI&fontSize=42&fontColor=ffffff&desc=AI%20SYSTEMS%20%26%20DISTRIBUTED%20BACKEND%20ENGINEER&descSize=16&descColor=00F0FF" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&section=header&text=Anubhav%20Tripathi&fontSize=42&fontColor=ffffff&desc=AI%20Systems%20%26%20Distributed%20Backend%20Engineer&descSize=16&descColor=00F0FF" width="100%" alt="Header Banner" />
 
   <br/>
 
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=2500&pause=800&color=00F0FF&background=0D111700&center=true&vCenter=true&width=750&lines=%3E_ INITIALIZING_AGENTIC_GRAPH_ORCHESTRATION...;%3E_ REDIS_ATOMIC_LOCK_DISPATCH%3A_OPERATIONAL;%3E_ ZEPHYR_RTOS_BLE_TELEMETRY_LINK%3A_ESTABLISHED;%3E_ MULTIMODAL_CITIZEN_GRIEVANCE_ENGINE%3A_ONLINE" alt="Terminal HUD Engine" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=800&color=00F0FF&background=0D111700&center=true&vCenter=true&width=750&lines=AI+Systems+%26+Distributed+Backend+Engineer;Founding+Engineer+%40+Orbitron+Labs;B.Tech+CS+(AI%2FML)+Final+Year;LangGraph+%E2%80%A2+Zephyr+RTOS+%E2%80%A2+Redis+Locks" alt="Typing Header" />
   </a>
 
   <br/><br/>
 
-  <img src="https://komarev.com/ghpvc/?username=er-anubhav&color=00f0ff&style=for-the-badge&label=SYSTEM_ACCESSES" alt="System Access Counter" />
+  <img src="https://komarev.com/ghpvc/?username=er-anubhav&color=00f0ff&style=for-the-badge&label=Profile+Views" alt="Profile Views Counter" />
 
 </div>
 
 <br/>
 
-### // OPERATIONAL PROFILE
+### Profile Overview
 
-```text
-====================================================================================================
-IDENTITY   : Anubhav Tripathi | B.Tech CS (AI & ML) Final Year (Class of 2027)
-LOCATION   : AKTU / I.T.S Engineering College, Greater Noida, India
-SPECS      : Autonomous Agentic Workflows | High-Concurrency Backend Systems | RTOS Telemetry
-====================================================================================================
-```
+Computer Science Engineering student (AI & ML, Final Year at AKTU / I.T.S Engineering College) architecting stateful agentic workflows, high-concurrency backend microservices, and low-power RTOS firmware.
 
 * **Founding Engineer** at **Orbitron Labs** — Architected multimodal AI citizen grievance platform processing 500+ live submissions (60–70% triage reduction).
 * **Software Engineering Intern** at **E4A Solution** — Zephyr RTOS C firmware & BLE telemetry engines for medical devices.
@@ -33,7 +27,7 @@ SPECS      : Autonomous Agentic Workflows | High-Concurrency Backend Systems | R
 
 <br/>
 
-### // TECHNICAL CAPABILITIES HUD
+### Technical Capabilities
 
 #### Agentic AI & Systems Orchestration
 ![LangGraph](https://img.shields.io/badge/LangGraph-0D1117?style=for-the-badge&logo=python&logoColor=00F0FF)
@@ -68,7 +62,7 @@ SPECS      : Autonomous Agentic Workflows | High-Concurrency Backend Systems | R
 
 <br/>
 
-### // MISSION-CRITICAL SYSTEMS (FEATURED DEPLOYMENTS)
+### Featured Projects
 
 <table width="100%">
   <tr>
@@ -98,11 +92,11 @@ SPECS      : Autonomous Agentic Workflows | High-Concurrency Backend Systems | R
 
 <br/>
 
-### // SYSTEM TELEMETRY & ANALYTICS
+### GitHub Analytics
 
 <div align="center">
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=er-anubhav&theme=tokyonight" width="49%" alt="System Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=er-anubhav&theme=tokyonight" width="49%" alt="Profile Details" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=er-anubhav&theme=tokyonight" width="49%" alt="Repos Per Language" />
 
   <br/><br/>
@@ -118,7 +112,7 @@ SPECS      : Autonomous Agentic Workflows | High-Concurrency Backend Systems | R
 
 <br/>
 
-### // TERMINAL ACCESS & DIRECT LINKS
+### Connect & Links
 
 <div align="center">
 
