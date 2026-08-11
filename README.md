@@ -18,7 +18,7 @@
 
 ### Profile Overview
 
-Computer Science Engineering student (AI & ML, Final Year at AKTU / I.T.S Engineering College) architecting stateful agentic workflows, high-concurrency backend microservices, and low-power RTOS firmware.
+Computer Science Engineering student (AI & ML, Final Year at AKTU / I.T.S Engineering College) architecting stateful agentic workflows, high-concurrency backend microservices, and low-power RTOS firmware across 40+ repositories and private enterprise deployments.
 
 * **Founding Engineer** at **Orbitron Labs** — Architected multimodal AI citizen grievance platform processing 500+ live submissions (60–70% triage reduction).
 * **Software Engineering Intern** at **E4A Solution** — Zephyr RTOS C firmware & BLE telemetry engines for medical devices.
@@ -62,8 +62,9 @@ Computer Science Engineering student (AI & ML, Final Year at AKTU / I.T.S Engine
 
 <br/>
 
-### Featured Projects
+### Featured Systems & Architecture
 
+#### Open Source & Flagship Repositories
 <table width="100%">
   <tr>
     <td width="33%" valign="top">
@@ -90,9 +91,33 @@ Computer Science Engineering student (AI & ML, Final Year at AKTU / I.T.S Engine
   </tr>
 </table>
 
+#### Enterprise & Private Deployments
+<table width="100%">
+  <tr>
+    <td width="33%" valign="top">
+      <h4>Orbitron Labs Grievance Automation</h4>
+      <p>Multimodal AI citizen grievance triage platform processing 500+ live submissions with 60–70% manual effort reduction.</p>
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+    </td>
+    <td width="33%" valign="top">
+      <h4>E4A Solution BLE Medical Firmware</h4>
+      <p>Low-power embedded C firmware & BLE telemetry engines on Zephyr RTOS with offline-first synchronization.</p>
+      <img src="https://img.shields.io/badge/Zephyr_RTOS-00F0FF?style=flat-square&logo=linux&logoColor=black" />
+      <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
+    </td>
+    <td width="33%" valign="top">
+      <h4>ITSEC NFED Digital Platforms</h4>
+      <p>Enterprise REST microservices supporting 100+ institutional deployment users across MSME initiatives.</p>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+      <img src="https://img.shields.io/badge/REST_APIs-009688?style=flat-square&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
 <br/>
 
-### GitHub Analytics
+### GitHub Analytics & Contribution Footprint
 
 <div align="center">
 
