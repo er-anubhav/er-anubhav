@@ -11,7 +11,7 @@ Founding Engineer @ Orbitron Labs • B.Tech CS (AI/ML) Final Year at AKTU / I.T
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=er-anubhav&color=39d353&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=er-anubhav&color=2ea043&style=flat-square&label=Profile+Views)
 
 <img src="./assets/divider.svg" width="100%" alt="Divider" />
 
