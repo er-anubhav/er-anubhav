@@ -141,9 +141,6 @@ Computer Science Engineering student (AI & ML, Final Year) architecting stateful
   <img src="https://www.gitskins.com/api/section/stack?username=er-anubhav&theme=github-dark" width="100%" alt="GitSkins Language Stack" />
   <br/><br/>
 
-  <img src="https://www.gitskins.com/api/section/heatmap?username=er-anubhav&theme=aurora" width="100%" alt="GitSkins Contribution Heatmap" />
-  <br/><br/>
-
   <img src="https://www.gitskins.com/api/section/social?username=er-anubhav&theme=github-dark&style=terminal" width="100%" alt="GitSkins Terminal Social Card" />
   <br/><br/>
 
@@ -157,7 +154,7 @@ Computer Science Engineering student (AI & ML, Final Year) architecting stateful
 
   <br/><br/>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=er-anubhav&theme=tokyonight&hide_border=true" width="100%" alt="Commit Activity Graph" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=er-anubhav&theme=aurora" width="100%" alt="Contribution Activity" />
 
 </div>
 
