@@ -4,9 +4,9 @@
 
 <br/>
 
-# $\mathrm{Anubhav\ Tripathi}$
+# Anubhav Tripathi
 
-$\mathrm{AI\ Systems\ \text{\&}\ Distributed\ Backend\ Engineer}$  
+**AI Systems & Distributed Backend Engineer**  
 Founding Engineer @ Orbitron Labs • B.Tech CS (AI/ML) Final Year at AKTU / I.T.S Engineering College
 
 <br/>
