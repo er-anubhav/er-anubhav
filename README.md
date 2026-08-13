@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/hero.svg" width="100%" alt="Hero Banner" />
+  <img src="./assets/hero.svg?v=2" width="100%" alt="Hero Banner" />
 </div>
 
 <br/>
@@ -13,7 +13,7 @@ Founding Engineer @ Orbitron Labs • B.Tech CS (AI/ML) Final Year at AKTU / I.T
 
 ![Profile Views](https://komarev.com/ghpvc/?username=er-anubhav&color=0e4429&style=flat-square&label=Profile+Views)
 
-<img src="./assets/divider.svg" width="100%" alt="Divider" />
+<img src="./assets/divider.svg?v=2" width="100%" alt="Divider" />
 
 ### Profile Overview
 
@@ -24,20 +24,20 @@ Computer Science Engineering student (AI & ML, Final Year) architecting stateful
 * **Software Engineer Intern** at **ITSEC NFED** — Enterprise backend systems & reliable REST microservices.
 * **President** of **NexTech Technical Society** & **Google Student Ambassador**.
 
-<img src="./assets/divider.svg" width="100%" alt="Divider" />
+<img src="./assets/divider.svg?v=2" width="100%" alt="Divider" />
 
 ### What keeps me busy
 
 <div align="center">
-  <img src="./assets/focus.svg" width="100%" alt="What keeps me busy" />
+  <img src="./assets/focus.svg?v=2" width="100%" alt="What keeps me busy" />
 </div>
 
-<img src="./assets/divider.svg" width="100%" alt="Divider" />
+<img src="./assets/divider.svg?v=2" width="100%" alt="Divider" />
 
 ### Technical Capabilities
 
 <div align="center">
-  <img src="./assets/tech-stack.svg" width="100%" alt="Tech Stacks" />
+  <img src="./assets/tech-stack.svg?v=2" width="100%" alt="Tech Stacks" />
 </div>
 
 <br/>
@@ -73,7 +73,7 @@ Computer Science Engineering student (AI & ML, Final Year) architecting stateful
 ![Linux](https://img.shields.io/badge/Linux_CLI-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624)
 ![Supabase](https://img.shields.io/badge/Supabase-0D1117?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
 
-<img src="./assets/divider.svg" width="100%" alt="Divider" />
+<img src="./assets/divider.svg?v=2" width="100%" alt="Divider" />
 
 ### Featured Systems & Architecture
 
@@ -131,7 +131,7 @@ Computer Science Engineering student (AI & ML, Final Year) architecting stateful
   </tr>
 </table>
 
-<img src="./assets/divider.svg" width="100%" alt="Divider" />
+<img src="./assets/divider.svg?v=2" width="100%" alt="Divider" />
 
 ### GitHub Analytics & Contribution Footprint
 
@@ -160,7 +160,7 @@ Computer Science Engineering student (AI & ML, Final Year) architecting stateful
 
 </div>
 
-<img src="./assets/divider.svg" width="100%" alt="Divider" />
+<img src="./assets/divider.svg?v=2" width="100%" alt="Divider" />
 
 ### Connect & Links
 
