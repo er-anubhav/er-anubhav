@@ -11,7 +11,7 @@ Founding Engineer @ Orbitron Labs • B.Tech CS (AI/ML) Final Year at AKTU / I.T
 
 ![Profile Views](https://komarev.com/ghpvc/?username=er-anubhav&color=00f0ff&style=flat-square&label=Profile+Views)
 
----
+<img src="https://www.gitskins.com/api/readme-reference/divider?username=er-anubhav&theme=neon" width="100%" alt="Divider" />
 
 ### Profile Overview
 
@@ -22,7 +22,7 @@ Computer Science Engineering student (AI & ML, Final Year) architecting stateful
 * **Software Engineer Intern** at **ITSEC NFED** — Enterprise backend systems & reliable REST microservices.
 * **President** of **NexTech Technical Society** & **Google Student Ambassador**.
 
----
+<img src="https://www.gitskins.com/api/readme-reference/divider?username=er-anubhav&theme=neon" width="100%" alt="Divider" />
 
 ### What keeps me busy
 
@@ -30,7 +30,7 @@ Computer Science Engineering student (AI & ML, Final Year) architecting stateful
   <img src="https://www.gitskins.com/api/readme-reference/focus?username=er-anubhav&theme=neon&location=&focus=BUILDING%20IN%20PUBLIC%7COPEN%20SOURCE%7CALWAYS%20LEARNING" width="100%" alt="What keeps me busy" />
 </div>
 
----
+<img src="https://www.gitskins.com/api/readme-reference/divider?username=er-anubhav&theme=neon" width="100%" alt="Divider" />
 
 ### Technical Capabilities
 
@@ -71,7 +71,7 @@ Computer Science Engineering student (AI & ML, Final Year) architecting stateful
 ![Linux](https://img.shields.io/badge/Linux_CLI-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624)
 ![Supabase](https://img.shields.io/badge/Supabase-0D1117?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
 
----
+<img src="https://www.gitskins.com/api/readme-reference/divider?username=er-anubhav&theme=neon" width="100%" alt="Divider" />
 
 ### Featured Systems & Architecture
 
@@ -129,7 +129,7 @@ Computer Science Engineering student (AI & ML, Final Year) architecting stateful
   </tr>
 </table>
 
----
+<img src="https://www.gitskins.com/api/readme-reference/divider?username=er-anubhav&theme=neon" width="100%" alt="Divider" />
 
 ### GitHub Analytics & Contribution Footprint
 
@@ -161,7 +161,7 @@ Computer Science Engineering student (AI & ML, Final Year) architecting stateful
 
 </div>
 
----
+<img src="https://www.gitskins.com/api/readme-reference/divider?username=er-anubhav&theme=neon" width="100%" alt="Divider" />
 
 ### Connect & Links
 
