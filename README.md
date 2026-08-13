@@ -115,7 +115,7 @@ Computer Science Engineering student (AI & ML, Final Year) architecting stateful
 
 <div align="center">
 
-  <img src="https://www.gitskins.com/api/section/space-shooter?username=er-anubhav&theme=github-dark" width="100%" alt="Space Shooter" />
+  <img src="./space-shooter.gif" width="100%" alt="Space Shooter" />
   <br/><br/>
 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=er-anubhav&theme=tokyonight" width="49%" alt="Profile Details" />
