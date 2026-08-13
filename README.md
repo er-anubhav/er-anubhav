@@ -11,8 +11,6 @@ Founding Engineer @ Orbitron Labs • B.Tech CS (AI/ML) Final Year at AKTU / I.T
 
 ![Profile Views](https://komarev.com/ghpvc/?username=er-anubhav&color=0e4429&style=flat-square&label=Profile+Views)
 
-<img src="https://raw.githubusercontent.com/er-anubhav/er-anubhav/main/assets/v2/divider.svg" width="100%" alt="Divider" />
-
 ### Profile Overview
 
 Computer Science Engineering student (AI & ML, Final Year) architecting stateful agentic workflows, high-concurrency backend microservices, and low-power RTOS firmware across 40+ repositories and private enterprise deployments.
