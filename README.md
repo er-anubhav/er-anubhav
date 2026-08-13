@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://www.gitskins.com/api/section/hero?username=er-anubhav&theme=github-dark" width="100%" alt="Hero Banner" />
+  <img src="https://www.gitskins.com/api/readme-reference/hero?username=er-anubhav&theme=neon&role=FULL-STACK%20DEVELOPER%20%C2%B7%20BUILDER" width="100%" alt="Hero Banner" />
 </div>
 
 <br/>
