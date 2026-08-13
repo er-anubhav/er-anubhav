@@ -34,6 +34,12 @@ Computer Science Engineering student (AI & ML, Final Year) architecting stateful
 
 ### Technical Capabilities
 
+<div align="center">
+  <img src="https://www.gitskins.com/api/readme-reference/technology-stack?logos=Python%2CJavaScript%2CTypeScript%2CJupyter%20Notebook%2CPHP" width="100%" alt="Tech Stacks" />
+</div>
+
+<br/>
+
 #### Agentic AI & Systems Orchestration
 ![LangGraph](https://img.shields.io/badge/LangGraph-0D1117?style=for-the-badge&logo=python&logoColor=00F0FF)
 ![LangChain](https://img.shields.io/badge/LangChain-0D1117?style=for-the-badge&logo=langchain&logoColor=white)
@@ -68,6 +74,12 @@ Computer Science Engineering student (AI & ML, Final Year) architecting stateful
 ---
 
 ### Featured Systems & Architecture
+
+<div align="center">
+  <img src="https://www.gitskins.com/api/section/projects?username=er-anubhav&theme=neon&style=terminal" width="100%" alt="Featured Projects" />
+</div>
+
+<br/>
 
 #### Open Source & Flagship Repositories
 <table width="100%">
