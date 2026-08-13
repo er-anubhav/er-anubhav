@@ -110,7 +110,7 @@
           font-size="15" letter-spacing="7" fill="#39d353" opacity="0.95">&#8249; ER-ANUBHAV &#8250;</text>
 
     <text x="600" y="244" text-anchor="middle" font-family="'Trebuchet MS', 'Segoe UI', Verdana, sans-serif"
-          font-size="96" font-weight="800" letter-spacing="6" fill="url(#nameGrad)" filter="url(#textGlow)">Anubhav</text>
+          font-size="96" font-weight="800" letter-spacing="6" fill="#39d353">Anubhav</text>
 
     <line class="dash" x1="372" y1="270" x2="828" y2="270" stroke="url(#borderGrad)" stroke-width="2.2" stroke-linecap="round"/>
 

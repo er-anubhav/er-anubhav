@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/er-anubhav/er-anubhav/main/assets/hero.svg?v=3" width="100%" alt="Hero Banner" />
+  <img src="https://raw.githubusercontent.com/er-anubhav/er-anubhav/main/assets/hero.svg?v=4" width="100%" alt="Hero Banner" />
 </div>
 
 <br/>
