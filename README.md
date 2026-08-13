@@ -1,10 +1,8 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/er-anubhav/er-anubhav/main/assets/hero.svg?v=4" width="100%" alt="Hero Banner" />
+  <img src="https://raw.githubusercontent.com/er-anubhav/er-anubhav/main/assets/hero.svg?v=5" width="100%" alt="Hero Banner" />
 </div>
 
 <br/>
-
-# Anubhav Tripathi
 
 **AI Systems & Distributed Backend Engineer**  
 Founding Engineer @ Orbitron Labs • B.Tech CS (AI/ML) Final Year at AKTU / I.T.S Engineering College
@@ -13,7 +11,7 @@ Founding Engineer @ Orbitron Labs • B.Tech CS (AI/ML) Final Year at AKTU / I.T
 
 ![Profile Views](https://komarev.com/ghpvc/?username=er-anubhav&color=0e4429&style=flat-square&label=Profile+Views)
 
-<img src="https://raw.githubusercontent.com/er-anubhav/er-anubhav/main/assets/divider.svg?v=3" width="100%" alt="Divider" />
+<img src="https://raw.githubusercontent.com/er-anubhav/er-anubhav/main/assets/divider.svg?v=5" width="100%" alt="Divider" />
 
 ### Profile Overview
 
@@ -24,20 +22,20 @@ Computer Science Engineering student (AI & ML, Final Year) architecting stateful
 * **Software Engineer Intern** at **ITSEC NFED** — Enterprise backend systems & reliable REST microservices.
 * **President** of **NexTech Technical Society** & **Google Student Ambassador**.
 
-<img src="https://raw.githubusercontent.com/er-anubhav/er-anubhav/main/assets/divider.svg?v=3" width="100%" alt="Divider" />
+<img src="https://raw.githubusercontent.com/er-anubhav/er-anubhav/main/assets/divider.svg?v=5" width="100%" alt="Divider" />
 
 ### What keeps me busy
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/er-anubhav/er-anubhav/main/assets/focus.svg?v=3" width="100%" alt="What keeps me busy" />
+  <img src="https://raw.githubusercontent.com/er-anubhav/er-anubhav/main/assets/focus.svg?v=5" width="100%" alt="What keeps me busy" />
 </div>
 
-<img src="https://raw.githubusercontent.com/er-anubhav/er-anubhav/main/assets/divider.svg?v=3" width="100%" alt="Divider" />
+<img src="https://raw.githubusercontent.com/er-anubhav/er-anubhav/main/assets/divider.svg?v=5" width="100%" alt="Divider" />
 
 ### Technical Capabilities
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/er-anubhav/er-anubhav/main/assets/tech-stack.svg?v=3" width="100%" alt="Tech Stacks" />
+  <img src="https://raw.githubusercontent.com/er-anubhav/er-anubhav/main/assets/tech-stack.svg?v=5" width="100%" alt="Tech Stacks" />
 </div>
 
 <br/>
@@ -73,12 +71,12 @@ Computer Science Engineering student (AI & ML, Final Year) architecting stateful
 ![Linux](https://img.shields.io/badge/Linux_CLI-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624)
 ![Supabase](https://img.shields.io/badge/Supabase-0D1117?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
 
-<img src="https://raw.githubusercontent.com/er-anubhav/er-anubhav/main/assets/divider.svg?v=3" width="100%" alt="Divider" />
+<img src="https://raw.githubusercontent.com/er-anubhav/er-anubhav/main/assets/divider.svg?v=5" width="100%" alt="Divider" />
 
 ### Featured Systems & Architecture
 
 <div align="center">
-  <img src="https://www.gitskins.com/api/section/projects?username=er-anubhav&theme=neon&style=terminal" width="100%" alt="Featured Projects" />
+  <img src="https://www.gitskins.com/api/section/projects?username=er-anubhav&theme=emerald&style=terminal" width="100%" alt="Featured Projects" />
 </div>
 
 <br/>
@@ -131,7 +129,7 @@ Computer Science Engineering student (AI & ML, Final Year) architecting stateful
   </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/er-anubhav/er-anubhav/main/assets/divider.svg?v=3" width="100%" alt="Divider" />
+<img src="https://raw.githubusercontent.com/er-anubhav/er-anubhav/main/assets/divider.svg?v=5" width="100%" alt="Divider" />
 
 ### GitHub Analytics & Contribution Footprint
 
@@ -140,10 +138,10 @@ Computer Science Engineering student (AI & ML, Final Year) architecting stateful
   <img src="./space-shooter.gif" width="100%" alt="Space Shooter" />
   <br/><br/>
 
-  <img src="https://www.gitskins.com/api/section/stack?username=er-anubhav&theme=github-dark" width="100%" alt="GitSkins Language Stack" />
+  <img src="https://www.gitskins.com/api/section/stack?username=er-anubhav&theme=aurora" width="100%" alt="GitSkins Language Stack" />
   <br/><br/>
 
-  <img src="https://www.gitskins.com/api/section/social?username=er-anubhav&theme=github-dark&style=terminal" width="100%" alt="GitSkins Terminal Social Card" />
+  <img src="https://www.gitskins.com/api/section/social?username=er-anubhav&theme=emerald&style=terminal" width="100%" alt="GitSkins Terminal Social Card" />
   <br/><br/>
 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=er-anubhav&theme=tokyonight" width="49%" alt="Profile Details" />
@@ -160,7 +158,7 @@ Computer Science Engineering student (AI & ML, Final Year) architecting stateful
 
 </div>
 
-<img src="https://raw.githubusercontent.com/er-anubhav/er-anubhav/main/assets/divider.svg?v=3" width="100%" alt="Divider" />
+<img src="https://raw.githubusercontent.com/er-anubhav/er-anubhav/main/assets/divider.svg?v=5" width="100%" alt="Divider" />
 
 ### Connect & Links
 
