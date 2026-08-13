@@ -24,6 +24,14 @@ Computer Science Engineering student (AI & ML, Final Year) architecting stateful
 
 ---
 
+### What keeps me busy
+
+<div align="center">
+  <img src="https://www.gitskins.com/api/readme-reference/focus?username=er-anubhav&theme=neon&location=&focus=BUILDING%20IN%20PUBLIC%7COPEN%20SOURCE%7CALWAYS%20LEARNING" width="100%" alt="What keeps me busy" />
+</div>
+
+---
+
 ### Technical Capabilities
 
 #### Agentic AI & Systems Orchestration
@@ -116,6 +124,15 @@ Computer Science Engineering student (AI & ML, Final Year) architecting stateful
 <div align="center">
 
   <img src="./space-shooter.gif" width="100%" alt="Space Shooter" />
+  <br/><br/>
+
+  <img src="https://www.gitskins.com/api/section/stack?username=er-anubhav&theme=github-dark" width="100%" alt="GitSkins Language Stack" />
+  <br/><br/>
+
+  <img src="https://www.gitskins.com/api/section/heatmap?username=er-anubhav&theme=aurora" width="100%" alt="GitSkins Contribution Heatmap" />
+  <br/><br/>
+
+  <img src="https://www.gitskins.com/api/section/social?username=er-anubhav&theme=github-dark&style=terminal" width="100%" alt="GitSkins Terminal Social Card" />
   <br/><br/>
 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=er-anubhav&theme=tokyonight" width="49%" alt="Profile Details" />
