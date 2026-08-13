@@ -1,3 +1,9 @@
+<div align="center">
+  <img src="https://www.gitskins.com/api/section/hero?username=er-anubhav&theme=github-dark" width="100%" alt="Hero Banner" />
+</div>
+
+<br/>
+
 # Anubhav Tripathi
 
 **AI Systems & Distributed Backend Engineer**  
@@ -109,7 +115,7 @@ Computer Science Engineering student (AI & ML, Final Year) architecting stateful
 
 <div align="center">
 
-  <img src="https://www.gitskins.com/showcase/space-shooter.gif" width="100%" alt="Space Shooter" />
+  <img src="https://www.gitskins.com/api/section/space-shooter?username=er-anubhav&theme=github-dark" width="100%" alt="Space Shooter" />
   <br/><br/>
 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=er-anubhav&theme=tokyonight" width="49%" alt="Profile Details" />
